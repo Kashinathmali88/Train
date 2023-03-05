@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #00ded3; 
+	background: -webkit-linear-gradient(to right, #00ded3, #891de0); 
+	background: linear-gradient(to right, #00ded3, #891de0); 
+	
+   box-sizing: border-box;
+
+
+}
+#login{
+	width: 350px;
+	height: 400px;
+	margin-top: 220px;
+	background-color: #ffff;
+   position: relative;
+	top: 50%;
+	left: 43%;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px 0;
+	
+
+	
+}
+#login header{
+	
+	color: #130f40;
+	font-size: 30px;
+	position: relative;
+	top: 30px;
+	left: 30px;
+
+}
+.top p{
+   color: #30336b;
+   padding-top: 10px;
+   margin: 30px;
+
+}
+input{
+	width: 78%;
+	height: 28px;
+	margin:0 20px 0 30px;
+	border-radius: 4px;
+	border-color: #30336b;
+
+}
+button{
+	width: 76%;
+	height: 32px;
+	margin: 20px 10px 0 37px;
+	color: #ffff;
+	border-radius: 4px;
+	background-color:  #130f40;
+}
+button:hover{
+	background-color: #30336b;
+}
+footer p{
+   margin: 30px 110px 20px 40px;
+   text-decoration: none;
+}
+.forgot{
+   text-align: right;
+   position: relative;
+   top: 0px;
+   left: 100px;
+   margin-top: -36px;
+   text-decoration: none;
+   color: #30336b;
+   
+}
+label{
+	color:#30336b;
+	margin-left: 30px;
+
+}
+label:hover{
+	font-size: 20px;
+	color: #130f40;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	font-size: 18px;
+}
